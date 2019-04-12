@@ -1,15 +1,0 @@
-
-[
-squid:S106	"9Replace this use of System.out or System.err by a logger.(Ó¯ãüÿÿÿÿ8ŠØßÍö,
-Csquid:S2129" Remove this "String" constructor(ëÖ·ıÿÿÿÿ8†¡æÍö,
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(¾Äú‚şÿÿÿÿ8Ÿ¨ëÍö,
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(’®ò8ĞÛìÍö,
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(Î¢›æ8üŞÍö,
->squid:S2129" Remove this "String" constructor(º‹Ü¨8Ÿ¨ëÍö,
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(¼Ğ»æ8ÜÎîÍö,
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ØÚŠ¨8Ü†äÍö,
